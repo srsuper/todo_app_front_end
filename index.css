@@ -1,9 +1,17 @@
-body {
-    background-color:lightgreen;
+
+
+
+.priority-high {
+    color:red;
+}
+.priority-medium {
+    color:orange;
+}
+.priority-low {
+    color:green;
+}
+span {
+    color:black;
 }
 
 
-
-h1 {
-    color:lightblue;
-}
