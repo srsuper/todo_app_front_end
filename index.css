@@ -1,6 +1,11 @@
+html {
+    font-family: sans-serif;
+}
 
-
-
+li {
+    padding:5px;
+    margin-bottom:10px;
+}
 .priority-high {
     color:red;
 }
@@ -10,8 +15,14 @@
 .priority-low {
     color:green;
 }
-span {
+.pomodora-estimate {
     color:black;
+    background-color: lightgray;
+    font-weight: bold;
+    padding:5px, 10px, 5px, 10px;
+    border-radius: 50px;
+    font-size: 14px;
+    
 }
 
 
