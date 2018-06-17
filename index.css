@@ -5,6 +5,10 @@ html {
 li {
     padding:5px;
     margin-bottom:10px;
+
+}
+li:hover {
+    background-color:#F5F5F5;
 }
 .priority-high {
     color:red;
@@ -22,7 +26,34 @@ li {
     padding:5px, 10px, 5px, 10px;
     border-radius: 50px;
     font-size: 14px;
-    
+
+input {
+    color:#FFF;
+    font-size:16px;
+    padding:10px;
+    border-radius:3px;
+    margin-top:10px;
+    box-shadow:5px;
+    border:1px solid gray;
 }
+}
+#add-new-todo-button {
+   color:white;
+    background-color:blue;
+    font-weight: bold;
+    padding:5px, 10px, 5px, 10px;
+    border-radius: 50px;
+    font-size: 15px;
+    margin-top:10px;
+}
+
+#add-new-todo-button:active {
+    box-shadow:1px, 1px, 1px;
+}
+
+
+
+
+
 
 
