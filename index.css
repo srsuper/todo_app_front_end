@@ -23,7 +23,7 @@ li:hover {
     color:black;
     background-color: lightgray;
     font-weight: bold;
-    padding:5px, 10px, 5px, 10px;
+    padding:5px 10px 5px 10px;
     border-radius: 50px;
     font-size: 14px;
 
@@ -36,19 +36,18 @@ input {
     box-shadow:5px;
     border:1px solid gray;
 }
-}
 #add-new-todo-button {
    color:white;
     background-color:blue;
     font-weight: bold;
-    padding:5px, 10px, 5px, 10px;
+    padding:5px 10px 5px 10px;
     border-radius: 50px;
     font-size: 15px;
     margin-top:10px;
 }
 
 #add-new-todo-button:active {
-    box-shadow:1px, 1px, 1px;
+    box-shadow:1px 1px 1px;
 }
 
 
