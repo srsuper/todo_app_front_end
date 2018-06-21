@@ -1,6 +1,14 @@
-h2 {
+.fixed {
+    position:fixed;
+    background-color: lightblue;
+    top:100;
+    left:0;
+    width:100%;
+    padding:15px;
+}
+h1 {
     color:blue;
 }
 h4 {
-    color:red;
+    top:250px;
 }

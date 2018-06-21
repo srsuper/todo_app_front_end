@@ -45,9 +45,12 @@ input {
     font-size: 15px;
     margin-top:10px;
 }
-
+#color-choice {
+    color:green;
+}
 #add-new-todo-button:active {
     box-shadow:1px 1px 1px;
+  transform: translateY(4px);
 }
 
 
