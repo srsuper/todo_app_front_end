@@ -6,6 +6,9 @@
     padding:5px;
     color:blue;
 }
+#dropdown_menu {
+    backgrouund-color:lightblue;
+}
 h2 {
     top:300px;
 }
