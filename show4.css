@@ -13,3 +13,18 @@ h4 {
     top:250px;
     position: static;
 }
+.fixed {
+    position:fixed;
+    background-color: lightblue;
+    top:-3%;
+    width:100%;
+    padding:5px;
+    color:blue;
+}
+h2 {
+    top:300px;
+}
+h4 {
+    top:250px;
+    position: static;
+}
